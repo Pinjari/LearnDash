@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Open book: two pages + spine, centered in the adaptive safe zone -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,38c-6,-5 -14,-7 -22,-6v44c8,-1 16,1 22,6 6,-5 14,-7 22,-6V32c-8,-1 -16,1 -22,6z" />
+    <path
+        android:fillColor="#3F51B5"
+        android:pathData="M54,42v36M36,44h12M36,52h12M60,44h12M60,52h12"
+        android:strokeWidth="3"
+        android:strokeColor="#3F51B5" />
+</vector>
